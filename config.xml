@@ -8,6 +8,7 @@
         Karun Arora
     </author>
     <content src="index.html" />
+    <gap:plugin name="phonegap-admob" source="npm"/>
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.2.4" />
